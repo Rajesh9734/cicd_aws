@@ -11,7 +11,7 @@ permissions:
 
 env:
   AWS_REGION: us-east-1
-  EB_APPLICATION_NAME: aws_cli_setup
+  EB_APPLICATION_NAME: elastic-application-734
   EB_ENVIRONMENT_NAME: my-test-env
 
 concurrency:
